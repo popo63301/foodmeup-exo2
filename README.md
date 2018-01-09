@@ -34,7 +34,7 @@ La somme des 1/k pour 91380 vaut 12.000003051665617
 La somme des 1/k pour 91381 vaut 12.000013994859497
 ```
 
-### Cas = -21
+### Cas = -21 (idem pour 0)
 ```{r, engine='bash', count_lines}
 L'algorithme a trouvé 1 comme étant la solution optimale pour -21
 La somme des 1/k n'a pas de valeur pour 0
