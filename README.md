@@ -12,10 +12,10 @@
 ## Example:
 ### Case = 1
 ```{r, engine='bash', count_lines}
-L'algorithme a trouvé 1 comme étant la solution optimale pour 1
-La somme des 1/k n'a pas de valeur pour 0
+L'algorithme a trouvé 2 comme étant la solution optimale pour 1
 La somme des 1/k pour 1 vaut 1
 La somme des 1/k pour 2 vaut 1.5
+La somme des 1/k pour 3 vaut 1.8333333333333333
 ```
 
 ### Cas = 2
