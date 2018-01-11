@@ -9,7 +9,13 @@ function findIt(n) {
 		k = k + 1/k_num
 	}
 
-	return k_num === 0 ? 1 : k_num
+	if (k_num === 1) {
+		return 2
+	} else if (k_num === 0) {
+		return 1
+	} else {
+		return k_num
+	}
 }
 
 //Donnez une valeur à nombre
